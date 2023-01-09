@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberturquhartjr&label=Profile%20views&color=0e75b6&style=flat" alt="roberturquhartjr" /> </p>
 
-- 🔭 I’m currently working on [building a personal website](www.roberturquhartjr.com)
+- 🔭 I’m currently working on[building a personal website](https://roberturquhartjr.github.io/RobertUrquhart-site/)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
