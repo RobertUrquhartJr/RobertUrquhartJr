@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a few code-along projects.**
 
-- 🌱 I’m currently learning **Ethical Hacking/Python via Udemy.**
+- 🌱 I’m currently learning **JS via Udemy.**
 
 - 🤝 I’m not yet looking for help with anything, **but constructive feedback is welcome.**
 
