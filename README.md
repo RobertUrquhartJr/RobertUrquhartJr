@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **almost anything, I love trivia and random knowledge.**
 
-- 📫 How to reach me **robert.urquhartjr@gmail.com**
+- 📫 How to reach me **www.roberturquhartjr.com**
 
 - ⚡ Fun fact **The "sixth sick sheik's sixth sheep's sick" is believed to be the toughest tongue twister in the English language.**
 
