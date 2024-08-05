@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberturquhartjr&label=Profile%20views&color=0e75b6&style=flat" alt="roberturquhartjr" /> </p>
 
-- 🔭 I’m currently working on **a full-stack NFT marketplace.**
+- 🔭 I’m currently working on **a full-stack project.**
 
 - 🌱 I’m currently learning **React.**
 
